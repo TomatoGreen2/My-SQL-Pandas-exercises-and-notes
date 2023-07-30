@@ -1,2 +1,2 @@
 # SQL
-A collection of my Python/SQL exercises and protocols. It contains only two mini-projects based on two different python packages to connect with a MySQL library - SQLAlchemy and 
+A collection of my Python/SQL exercises and protocols. It contains only two mini-projects based on two different python packages to connect with a MySQL library - SQLAlchemy and MySQL. In the first project, I am looking on chemical conformer generation with rdkit, cluster them and calculate the energies for these conformers - I compare the energies than in SQL. In the second project, I am looking on FAO data about maize production in Europe - all in SQL.
